@@ -2,4 +2,4 @@
 
 ### Initial Setup
 
-- [Windows 10 setup]('windows10-setup.md')
+- [Windows 10 setup](windows10-setup.md)
