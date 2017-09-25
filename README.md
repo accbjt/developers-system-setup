@@ -2,7 +2,7 @@
 
 ### Initial Setup
 
-- [Windows 10 setup](# Windows Setup)
+- [Windows 10 setup](#Windows Setup)
 
 # Windows Setup
 ### What are going to do
